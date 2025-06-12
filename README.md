@@ -8,11 +8,6 @@ A GPS-based IRL social matching app that helps shy or introverted people connect
 - GPS clue-based meetups (privacy-friendly)
 - Social anxiety-friendly design
 
-## How to Run:
-1. Install Python 3
-2. Run the app with `python main.py`
-3. Follow the prompts!
-
 ---
 
 This is my submission for the Athena Award 2025 Hackathon ✨
